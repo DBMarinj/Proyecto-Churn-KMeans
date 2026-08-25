@@ -161,6 +161,6 @@ Estas variables fueron sometidas a un proceso de **Feature Engineering**, permit
 
 # Autor
 
-**Deyanira Jaramillo**
+**Deyson Benhur Marín Jaramillo**
 
 Proyecto desarrollado como práctica de Ciencia de Datos, Machine Learning y Business Intelligence utilizando Databricks, PyCaret, Scikit-learn y Power BI.
